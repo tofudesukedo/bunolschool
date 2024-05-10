@@ -31,15 +31,31 @@
           >
         </td>
       </tr>
+      <tr>
+        <td>追加手数料等の追加料金</td>
+        <td>なし</td>
+      </tr>
+      <tr>
+        <td>引渡時期</td>
+        <td>申し込み後、直近の授業から参加可能</td>
+      </tr>
+      <tr>
+        <td>商品の価格</td>
+        <td>各商品ページに記載の金額</td>
+      </tr>
+      <tr>
+        <td>支払い方法</td>
+        <td>クレジットカード</td>
+      </tr>
+      <tr>
+        <td>返金について</td>
+        <td>商品の性質上、返品は受け付けておりません。</td>
+      </tr>
+      <tr>
+        <td>決済期間</td>
+        <td>ただちに処理されます</td>
+      </tr>
     </table>
-
-    <h2 class="terms-section-title">商品の価格</h2>
-    <p class="terms-info">9800円(表示価格はすべて税込み価格です。)</p>
-
-    <h2 class="terms-section-title">支払い方法</h2>
-    <p class="terms-info">クレジットカード</p>
-    <h2 class="terms-section-title">返金について</h2>
-    <p class="terms-info">商品の性質上、返品は受け付けておりません。</p>
     <h2 class="terms-section-title">
       特定商取引法に基づく表記に関するお問い合わせ先
     </h2>
